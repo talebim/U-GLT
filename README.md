@@ -1,7 +1,7 @@
-# U-DIT
+# U-GLT
 ## **Introduction**
 This repository contains a new deep learning method based on vision transformer (ViT) to automatically localize and segment the left ventricle (LV), right ventricle (RV), and myocardium (MYO) in cardiac MR images. The method is introduced in the following paper:
-"[U-DIT: Unet-like Dilated Transformer for Cardiac MRI Segmentation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4866882)"
+"[U-GLT: A Hierarchical Global-Local Transformer for Cardiac MRI Segmentation]"
 ## **Train the model:**
 1. Register and download the ACDC-2017 dataset from https://www.creatis.insa-lyon.fr/Challenge/acdc/index.html.
 
